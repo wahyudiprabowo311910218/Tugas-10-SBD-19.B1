@@ -1,6 +1,6 @@
 # Tugas-10-SBD-19.B1
 
-1. <b>Masuk database</b> :
+<b>1. Masuk database</b> :
 
 ![image](https://user-images.githubusercontent.com/85074523/122645915-bb0f0c80-d0d1-11eb-83a8-ef59597089c7.png)
 
@@ -8,7 +8,7 @@
 
 
 <br><br>
-2. <b>Proses backup dan recovery menggunakan perintah Sql</b>  :
+<b>2. Proses backup dan recovery menggunakan perintah Sql</b>  :
 
 - penguncian table terlebih dahulu
 
@@ -36,7 +36,7 @@
 <br><br>
 
 
-3. <b>Proses backup dan recovery menggunakan perintah MySQLDump</b> :
+<b>3. Proses backup dan recovery menggunakan perintah MySQLDump</b> :
 
 - proses backup database :
 
@@ -50,6 +50,6 @@
 <br><br>
 
 
-4. <b>Script backup otomatis setiap hari minggu jam 12 malam </b> :
+<b>4. Script backup otomatis setiap hari minggu jam 12 malam </b> :
 
 ![image](https://user-images.githubusercontent.com/85074523/122648289-78ebc800-d0dd-11eb-99cb-96b64b5d360a.png)
