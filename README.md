@@ -52,4 +52,5 @@
 
 <b>4. Script backup otomatis setiap hari minggu jam 12 malam </b> :
 
-![image](https://user-images.githubusercontent.com/85074523/122648289-78ebc800-d0dd-11eb-99cb-96b64b5d360a.png)
+![image](https://user-images.githubusercontent.com/85074523/122648531-8e152680-d0de-11eb-9f96-98bdac70ba40.png)
+
